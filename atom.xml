@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Minyi is awesome!]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://miniminyi.com/"/>
-  <updated>2016-02-06T08:29:31.000Z</updated>
+  <updated>2016-02-06T09:22:03.000Z</updated>
   <id>http://miniminyi.com/</id>
   
   <author>
@@ -15,11 +15,47 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[用github pages和hexo来建个人网站]]></title>
+    <link href="http://miniminyi.com/2016/02/06/BuildYourPersonalWebsite/"/>
+    <id>http://miniminyi.com/2016/02/06/BuildYourPersonalWebsite/</id>
+    <published>2016-02-06T08:39:07.000Z</published>
+    <updated>2016-02-06T09:22:03.000Z</updated>
+    <content type="html"><![CDATA[<!-- excerpt --><br>列一下参考过的网站。</p>
+<ol>
+<li><a href="http://zipperary.com/categories/hexo/" target="_blank" rel="external">Zippera’s blog</a><br>其实只看这个blog的这个list就能顺利完成买域名，用github pages写blog，学习markdown简单用法，在网页中添加音乐、图片等工作。</li>
+<li><a href="https://pages.github.com/" target="_blank" rel="external">github pages</a></li>
+<li><a href="https://hexo.io/docs/index.html" target="_blank" rel="external">hexo官方文档</a></li>
+<li><a href="https://hexo.io/themes/" target="_blank" rel="external">hexo各种主题</a></li>
+<li><a href="https://github.com/hexojs/hexo/wiki/themes" target="_blank" rel="external">hexo更多的主题</a></li>
+<li><a href="https://portal.qiniu.com/" target="_blank" rel="external">七牛云</a></li>
+</ol>
+<p>然后在这里简单地说一下我的建站步骤。</p>
+<ol>
+<li>在github上新建一个miniminyi.github.io的repository</li>
+<li>在godaddy上租了两年miniminyi.com的域名</li>
+<li>绑定域名和github pages</li>
+<li>挑了一个喜欢的主题Tranquilpeak,然后修改了一下个人简介，enable了tag和archive。</li>
+<li>在七牛注册了账号，把图片上传</li>
+<li>写了第一篇blog来熟悉markdown的语法和尝试七牛图库的速度</li>
+</ol>
+<h1 id="u771F_u7684_u662F_u5F88_u7B80_u5355_u5462_7E"><a href="#u771F_u7684_u662F_u5F88_u7B80_u5355_u5462_7E" class="headerlink" title="真的是很简单呢~"></a>真的是很简单呢~ </h1>]]></content>
+    <summary type="html">
+    <![CDATA[<p>一直以来心里都有要建一个有自己域名的blog的想法，然而苦于姿势水平太低和拖延症太严重一直没能实现。借着github pages和hexo的超简单用法，终于建出了现在这个东西。<br>]]>
+    
+    </summary>
+    
+      <category term="git" scheme="http://miniminyi.com/tags/git/"/>
+    
+      <category term="hexo" scheme="http://miniminyi.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[跟着熙尔叔叔去看鸟~]]></title>
     <link href="http://miniminyi.com/2016/02/04/my-new-post/"/>
     <id>http://miniminyi.com/2016/02/04/my-new-post/</id>
     <published>2016-02-04T12:56:33.000Z</published>
-    <updated>2016-02-06T08:29:31.000Z</updated>
+    <updated>2016-02-06T08:49:35.000Z</updated>
     <content type="html"><![CDATA[<embed src="http://www.xiami.com/widget/39546525_1769139996/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent">
 
 <p>早有耳闻熙尔叔叔看鸟的种种，一直好奇这其中乐趣何在，趁熙尔叔叔留在肇庆时，抓住机会跟着他去了一趟仙女湖上了一次<strong>看鸟入门课</strong>，确实很有趣呢。<br><a id="more"></a><br>hill爸爸说的也很有道理呢：做程序猿那么辛苦，应该找点看鸟之类的户外爱好~23333</p>
