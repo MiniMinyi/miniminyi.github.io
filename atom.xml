@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[MiniMinyi's blog]]></title>
+  <subtitle><![CDATA[Minyi is awesome!]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://miniminyi.com/"/>
+  <updated>2016-02-06T09:22:03.000Z</updated>
+  <id>http://miniminyi.com/</id>
+  
+  <author>
+    <name><![CDATA[Minyi Liu]]></name>
+    <email><![CDATA[liumy0522@gmail.com]]></email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[用github pages和hexo来建个人网站]]></title>
+    <link href="http://miniminyi.com/2016/02/06/BuildYourPersonalWebsite/"/>
+    <id>http://miniminyi.com/2016/02/06/BuildYourPersonalWebsite/</id>
+    <published>2016-02-06T08:39:07.000Z</published>
+    <updated>2016-02-06T09:22:03.000Z</updated>
+    <content type="html"><![CDATA[<!-- excerpt --><br>列一下参考过的网站。</p>
+<ol>
+<li><a href="http://zipperary.com/categories/hexo/" target="_blank" rel="external">Zippera’s blog</a><br>其实只看这个blog的这个list就能顺利完成买域名，用github pages写blog，学习markdown简单用法，在网页中添加音乐、图片等工作。</li>
+<li><a href="https://pages.github.com/" target="_blank" rel="external">github pages</a></li>
+<li><a href="https://hexo.io/docs/index.html" target="_blank" rel="external">hexo官方文档</a></li>
+<li><a href="https://hexo.io/themes/" target="_blank" rel="external">hexo各种主题</a></li>
+<li><a href="https://github.com/hexojs/hexo/wiki/themes" target="_blank" rel="external">hexo更多的主题</a></li>
+<li><a href="https://portal.qiniu.com/" target="_blank" rel="external">七牛云</a></li>
+</ol>
+<p>然后在这里简单地说一下我的建站步骤。</p>
+<ol>
+<li>在github上新建一个miniminyi.github.io的repository</li>
+<li>在godaddy上租了两年miniminyi.com的域名</li>
+<li>绑定域名和github pages</li>
+<li>挑了一个喜欢的主题Tranquilpeak,然后修改了一下个人简介，enable了tag和archive。</li>
+<li>在七牛注册了账号，把图片上传</li>
+<li>写了第一篇blog来熟悉markdown的语法和尝试七牛图库的速度</li>
+</ol>
+<h1 id="u771F_u7684_u662F_u5F88_u7B80_u5355_u5462_7E"><a href="#u771F_u7684_u662F_u5F88_u7B80_u5355_u5462_7E" class="headerlink" title="真的是很简单呢~"></a>真的是很简单呢~ </h1>]]></content>
+    <summary type="html">
+    <![CDATA[<p>一直以来心里都有要建一个有自己域名的blog的想法，然而苦于姿势水平太低和拖延症太严重一直没能实现。借着github pages和hexo的超简单用法，终于建出了现在这个东西。<br>]]>
+    
+    </summary>
+    
+      <category term="git" scheme="http://miniminyi.com/tags/git/"/>
+    
+      <category term="hexo" scheme="http://miniminyi.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[跟着熙尔叔叔去看鸟~]]></title>
+    <link href="http://miniminyi.com/2016/02/04/my-new-post/"/>
+    <id>http://miniminyi.com/2016/02/04/my-new-post/</id>
+    <published>2016-02-04T12:56:33.000Z</published>
+    <updated>2016-02-06T08:49:35.000Z</updated>
+    <content type="html"><![CDATA[<embed src="http://www.xiami.com/widget/39546525_1769139996/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent">
+
+<p>早有耳闻熙尔叔叔看鸟的种种，一直好奇这其中乐趣何在，趁熙尔叔叔留在肇庆时，抓住机会跟着他去了一趟仙女湖上了一次<strong>看鸟入门课</strong>，确实很有趣呢。<br><a id="more"></a><br>hill爸爸说的也很有道理呢：做程序猿那么辛苦，应该找点看鸟之类的户外爱好~23333</p>
+<h3 id="u58F0_u660E_uFF1A_u4E0B_u9762_u7684_u56FE_u5168_u90E8_u6765_u81EA_u4E8E_u7199_u5C14_u53D4_u53D4"><a href="#u58F0_u660E_uFF1A_u4E0B_u9762_u7684_u56FE_u5168_u90E8_u6765_u81EA_u4E8E_u7199_u5C14_u53D4_u53D4" class="headerlink" title="声明：下面的图全部来自于熙尔叔叔"></a>声明：下面的图全部来自于熙尔叔叔</h3><p>嗯，提醒一下大家要有版权意识哦。</p>
+<ol>
+<li><p>我们在仙女湖第一只看到的鸟是<strong>北红尾鸲</strong><em>（拼音：qu）</em><br>先上图  </p>
+<h4 id="u5317_u7EA2_u5C3E_u9E32_u96C4_u9E1F_uFF1A"><a href="#u5317_u7EA2_u5C3E_u9E32_u96C4_u9E1F_uFF1A" class="headerlink" title="北红尾鸲雄鸟："></a>北红尾鸲雄鸟：</h4><p>跟人类世界不一样，鸟的世界很多时候都是雄鸟要比雌鸟漂亮呢。<br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E5%8C%97%E7%BA%A2%E5%B0%BE%E9%B8%B22.jpg" alt="">  </p>
+<h4 id="u5317_u7EA2_u5C3E_u9E32_u96CC_u9E1F_uFF1A"><a href="#u5317_u7EA2_u5C3E_u9E32_u96CC_u9E1F_uFF1A" class="headerlink" title="北红尾鸲雌鸟："></a>北红尾鸲雌鸟：</h4><p>看雌鸟是不是朴素很多 =v=<br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E5%8C%97%E7%BA%A2%E5%B0%BE%E9%B8%B2.jpg" alt=""></p>
+<p>什么！这个分明不是同一种鸟嘛。来看对比图，都不像的。=。=<br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E5%8C%97%E7%BA%A2%E5%B0%BE%E9%B8%B2%E5%AF%B9%E6%AF%94.png" alt=""></p>
+<p>别急，让我来教大家怎么辨认喏 =w=  (下面内容摘录自<a href="http://baike.niaolei.org.cn/%E5%8C%97%E7%BA%A2%E5%B0%BE%E9%B8%B2" target="_blank" rel="external">北红尾鸲</a> )<br>先看图鉴里的图~<br><img src="http://photo.niaolei.org.cn/uploads/201306/1370172821r1iOU04P.jpg" alt="北红尾鸲图示"><br>发现没？！北红尾鸲的特点就是中等体型(约15cm)，<strong>有明显而宽大的白色翼斑</strong>。</p>
+<blockquote>
+<p>雄鸟：眼先、头侧、喉、上背及两翼褐黑，仅翼斑白色；头顶及颈背灰色而具银色边缘；体羽余部栗褐，中央尾羽深黑褐。<br>雌鸟：褐色，白色翼斑显著，眼圈及尾皮黄色似雄鸟，但色较黯淡。臀部有时为棕色。 </p>
+</blockquote>
+<p>当然这种鸟那么活泼，整天跳来跳去，用望远镜都不一定看得清特征。所以很多时候都是通过叫声和生活习性来裸眼判断是不是它呢。北红尾鸲小小的，圆滚滚的，翅膀上还有个大白点，着实可爱呢。</p>
+</li>
+<li><p>第二只要介绍的鸟是很漂亮的<strong>叉尾太阳鸟</strong><br>上图~ 是不是很漂亮呢？<br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E5%8F%89%E5%B0%BE%E5%A4%AA%E9%98%B3%E9%B8%9F.jpg" alt="叉尾太阳鸟"><br>这张照片拍得真是好，不得不夸一下。把这种鸟的很多特点都表现出来了。例如细长下弯的嘴、羽毛颜色特点和爱吃花蜜的习性。（ 继续引用资料<a href="http://baike.niaolei.org.cn/%E5%A4%AA%E9%98%B3%E9%B8%9F%E7%A7%91" target="_blank" rel="external">太阳鸟科</a> 和 <a href="http://baike.niaolei.org.cn/%E5%8F%89%E5%B0%BE%E5%A4%AA%E9%98%B3%E9%B8%9F" target="_blank" rel="external">叉尾太阳鸟</a>)</p>
+<blockquote>
+<p>太阳鸟体型纤细，<strong>嘴细长下弯，先端有细小锯齿，舌成管状，尖端分叉，富伸缩性，喜食花蜜，</strong>有传粉作用，也吃昆虫和蜘蛛，雄鸟羽毛华丽，富金属光泽。</p>
+</blockquote>
+<h4 id="u96CC_u96C4_u9E1F_u56FE_u793A"><a href="#u96CC_u96C4_u9E1F_u56FE_u793A" class="headerlink" title="雌雄鸟图示"></a>雌雄鸟图示</h4><p><img src="http://photo.niaolei.org.cn/uploads/201306/1372059476gi42eDZf.jpg!300" alt="叉尾太阳鸟图示"><br>雄鸟的尾部还有很明显的分叉，我距离它很近的时候用裸眼都能把尾部分叉观察得很清楚呢。因为这样，叉尾太阳鸟又被称为燕尾太阳鸟。下面是摘录的雌雄鸟的特点，感觉，额，学会了好几个描写颜色的词。</p>
+<h4 id="u7279_u70B9"><a href="#u7279_u70B9" class="headerlink" title="特点"></a>特点</h4><blockquote>
+<p>雄鸟：顶冠及颈背金属绿色，上体橄榄色或近黑，腰黄。尾上覆羽及中央尾羽闪辉金属绿色，中央两尾羽有尖细的延长，外侧尾羽黑色而端白。头侧黑色而具闪辉绿色的髭纹和绛紫色的喉斑。下体余部污橄榄白色。<br>雌鸟甚小，上体橄榄色，下体浅绿黄。指名亚种两翼较黑。<br>虹膜－褐色；嘴－黑色；脚－黑色。<br>叫声：喧闹吵嚷。鸣声为高颤音；进食时也发出成串的唧唧声。响亮的金属音chiff-chiff-chiff 叫声。</p>
+</blockquote>
+<p>熙尔叔叔能够根据鸟叫就分辨出它来，还会乱学鸟叫，用app播鸟叫的时候还引起其他鸟儿的回应。真是有意思2333</p>
+</li>
+<li><p>第三只就是我最喜欢的名字最好听的很萌的<strong>暗绿绣眼鸟</strong><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E6%9A%97%E7%BB%BF%E7%BB%A3%E7%9C%BC%E9%B8%9F.jpg" alt="暗绿绣眼鸟"><br>这种鸟眼圈是白色的，所以叫绣眼。广东人多称它们为相思仔、白眼圈。对相思仔这个名字很好奇，我猜是出自于某篇诗词吧。然后找了找相关的故事，没找到，倒是找到了一堆关于饲养、贩卖、捕捉暗绿绣眼鸟的文章。唉，漂亮的羽毛和眼睛、清脆的啼叫本是上天赐予它的礼物，贪心的人们却将其据为己有，让礼物成为了劫数。:(<br>我觉得还是到处飞来飞去，跟叉尾太阳鸟相互追逐的，吱吱喳喳地乱叫的它比较可爱。=w=<br>下面又是认鸟时间~<br><a href="http://baike.niaolei.org.cn/%E6%9A%97%E7%BB%BF%E7%BB%A3%E7%9C%BC%E9%B8%9F#11" target="_blank" rel="external">暗绿绣眼鸟</a><br><img src="http://photo.niaolei.org.cn/uploads/201305/1368425990lxqBmx8N.jpg!300" alt="暗绿绣眼鸟：形态特征图"><br>这是在庭院和都市行道树上很容易看见的鸟儿呢，下次听到清脆的鸟叫声可以看看是不是这个可爱的小家伙哦。</p>
+<blockquote>
+<p>形态特征：体长约11厘米；背部羽毛为绿色，胸和腰部为灰色，腹部白色；翅膀和尾部羽毛泛绿光；明显的特征就是眼的周围环绕着白色绒状短羽，形成鲜明的白眼圈。</p>
+</blockquote>
+<p>我们在仙女湖刚好看到叉尾太阳鸟在不停地追打暗绿绣眼鸟。hill叔叔对这种情况感到很奇怪，我就问是不是在求偶啊，然后hill叔叔觉得我这个前生物课代表实在是太不靠谱了，连生殖隔离都忘了！<br>但是！但是！！那是因为我之前刷知乎时看到过这样的东西 =。=<br><a href="https://www.zhihu.com/question/26566498" target="_blank" rel="external">鸟类里有没有跨物种杂交生育的情况？</a><br>然后对这幅图印象很深刻：<br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E4%B9%B1%E6%9D%A5%E7%9A%84%E9%B8%9F.jpg" alt="乱来的鸟"><br>再引用一下高票答案</p>
+<blockquote>
+<p>鸟类杂交太多了。常见的有鸭科各种的大乱交，以河鸭，潜鸭，麻鸭尤甚，专门的水鸟图鉴或是鸭类图鉴甚至会专门有杂交鸭的页码，鸭类简直就是丧心病狂，在实际观鸟中，谁没见过几个杂交鸭？<br>鸫：几种有较近亲缘关系的经常杂交，例如红尾鸫x斑鸫，黑颈鸫x赤颈鸫<br>鸡：白鹇x黑鹇在自然界的确存在，而且后代可育，蓝孔雀x绿孔雀已经成为绿孔雀保育中的一个严峻问题了吧<br>鹎：IUCN评估中，台湾鹎的致危因素中明确表示为和逃逸的白头鹎的杂交，而且后代可育鸥：大鸥类一片混乱，感觉只要能见面，它们就能搞到一起去。<br>鹀：白头鹀x黄鹀 这样的例子实在太多了，以至于专著“buntings and sparrows”中专门有一些页面是来描绘杂交鹀的。</p>
+</blockquote>
+<p>虽然……，但是，比较靠谱的解释应该是叉尾太阳鸟和暗绿绣眼鸟的生态位比较接近，通俗理解就是它俩吃的东西很接近，吃它俩的东西很接近，生活的场所很接近这样。。</p>
+</li>
+<li><p><strong>灰背鸫</strong><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E7%81%B0%E8%83%8C%E9%B8%AB.jpg" alt="灰背鸫"><br><a href="http://baike.niaolei.org.cn/%E7%81%B0%E8%83%8C%E9%B8%AB" target="_blank" rel="external">灰背鸫</a><br><img src="http://photo.niaolei.org.cn/uploads/201302/1362068024qvB2IlYH.jpg!300" alt="灰背鸫形态特征图"></p>
+<blockquote>
+<p>体型略小（24厘米）的灰色鸫。两胁红棕色。<br>雄鸟：上体全灰，喉灰或偏白，胸灰，腹中心及尾下覆羽白，两胁及翼下橘黄。<br>雌鸟：上体褐色较重，喉及胸白，胸侧及两胁具黑色点斑。<br>虹膜－褐色；嘴－黄色；脚－肉色。<br>幼鸟上体橄榄褐色，头和翕具淡色条纹，翅上覆羽具棕色端斑。下体污白色具暗色纵纹，胸或多或少具有斑点。<br>叫声：优美悦耳的鸣声。告警时发出轻笑声及似喘息的chuck chuck声。</p>
+</blockquote>
+</li>
+<li><p><strong>鸬鹚</strong><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%EF%BC%88%E6%99%AE%E9%80%9A%EF%BC%89%E9%B8%AC%E9%B9%9A2.jpg" alt="鸬鹚"><br>以前在电视上看过的渔民的抓鱼小帮手鱼鹰就是这家伙了！</p>
+</li>
+<li><p><strong>白鹭</strong><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%EF%BC%88%E5%B0%8F%EF%BC%89%E7%99%BD%E9%B9%AD.jpg" alt="白鹭"><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%EF%BC%88%E5%B0%8F%EF%BC%89%E7%99%BD%E9%B9%AD2.jpg" alt="白鹭2"><br>嗯，喜欢排成一行飞上青天的家伙！</p>
+</li>
+<li><p><strong>苍鹭</strong><br><a href="http://baike.niaolei.org.cn/%E8%8B%8D%E9%B9%AD" target="_blank" rel="external">苍鹭</a><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E8%8B%8D%E9%B9%AD.jpg" alt="苍鹭"><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E8%8B%8D%E9%B9%AD2.jpg" alt="苍鹭2"><br>白鹭和苍鹭的名字都很好记，都是颜色加科属名。因为它我还被人嘲笑没学语文哼╭(╯^╰)╮。<br>我问了一下hill叔叔鹭有什么特点，他说鹭就是比较猥琐的，喜欢把缩着脖子。<br>而鹤就很优雅，高贵地伸直脖子。</p>
+</li>
+<li><p><strong>白鹡鸰</strong><br><a href="http://baike.niaolei.org.cn/%E7%99%BD%E9%B9%A1%E9%B8%B0" target="_blank" rel="external">白鹡鸰</a><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E7%99%BD%E9%B9%A1%E9%B8%B0.jpg" alt="白鹡鸰"><br>这只黑白相间的鸟儿形态也是很优雅的嘞。&gt;_&lt;</p>
+</li>
+<li><p><strong>白头鹎</strong><br><a href="http://baike.niaolei.org.cn/%E7%99%BD%E5%A4%B4%E9%B9%8E" target="_blank" rel="external">白头鹎</a><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E7%99%BD%E5%A4%B4%E9%B9%8E.jpg" alt="白头鹎"><br>头上有一撇白毛的鸟。</p>
+</li>
+<li><p><strong>山斑鸠</strong><br><a href="http://baike.niaolei.org.cn/%E5%B1%B1%E6%96%91%E9%B8%A0" target="_blank" rel="external">山斑鸠</a><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E5%B1%B1%E6%96%91%E9%B8%A0.jpg" alt="山斑鸠"><br>斑鸠一族都很有特点，体型感觉有点笨重。山斑鸠脖子处有一个地方有黑白相间的条纹，也不知道是用来干嘛的 =。= 好几种斑鸠的脖子处都会有一个独特的色块。</p>
+</li>
+<li><p><strong>长尾缝叶莺</strong><br><a href="http://baike.niaolei.org.cn/%E9%95%BF%E5%B0%BE%E7%BC%9D%E5%8F%B6%E8%8E%BA" target="_blank" rel="external">长尾缝叶莺</a><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E9%95%BF%E5%B0%BE%E7%BC%9D%E5%8F%B6%E8%8E%BA.jpg" alt="长尾缝叶莺"><br>这种鸟特别有意思，长得也很可爱。它能把一两片树叶缝在一起，弄得圆圆的，就当成巢住在里面了。所以叫缝叶莺。<br>大家应该都听说过很多杜鹃都靠“巢寄生”的方式来繁衍后代，也就是杜鹃会把自己的蛋偷偷放在别人的巢里，让别人帮自己养孩子。长尾缝叶莺就是这个当别人爹的倒霉鬼。QAQ<br>下图就是长尾缝叶莺义亲喂食个头比自己大一截的八声杜鹃幼鸟<br><img src="http://photo.niaolei.org.cn/uploads/201301/1358700187UhPsAIKW.jpg!300" alt="倒霉鬼"></p>
+</li>
+<li><p><strong>黑尾蜡嘴雀</strong><br><a href="http://baike.niaolei.org.cn/%E9%BB%91%E5%B0%BE%E8%9C%A1%E5%98%B4%E9%9B%80" target="_blank" rel="external">黑尾蜡嘴雀</a><br><img src="http://7xqqz5.com1.z0.glb.clouddn.com/%E9%BB%91%E5%B0%BE%E8%9C%A1%E5%98%B4%E9%9B%80.jpg" alt="黑尾蜡嘴雀"><br>这种鸟的嘴巴很引人注目，嘴硕大而端黑。整个看起来也很漂亮呢。</p>
+</li>
+</ol>
+<hr>
+<p>鸟就说完啦。<br>其实很多东西都是熙尔叔叔告诉我的，而且相片也都是他拍的。<br>这次只是带着我和冯姐姐去看鸟，熙尔叔叔都带了三个双筒望远镜，一个单筒望远镜配三脚架，一个单反加长焦镜头。收拾东西时把大大的越野包装得满满当当的。穿的是NorthFace的羽绒服，和一眼看上去就是户外越野鞋的越野鞋。感觉在一年的时间里都变成了一个颇为专业的观鸟爱好者了。<br>看完鸟回家后跟爸妈说起来，他们说我既然没技术拍鸟，应该把Hill叔叔的装备拍下了给他们看嘛 23333</p>
+<p>好啦。如果想了解更多大自然的故事，欢迎关注熙尔叔叔的公众号 <a href="http://weixin.sogou.com/gzh?openid=oIWsFt5OjD70mRhHPEFH_G1oT5u4&amp;ext=lA5I5al3X8ADnuVH19ajVH_H2Ll8hQ2Sqq0lTv471-5-6PJrsKu9UVApD4JPlsHz" target="_blank" rel="external">Hill的故事</a><br>扫扫二维码关注在这里：<img src="http://7xqqz5.com1.z0.glb.clouddn.com/hill%E7%9A%84%E6%95%85%E4%BA%8B.png" alt=""></p>
+<hr>
+<h4 id="u597D_u4E86_uFF0C_u5176_u5B9E_u6211_u5199_u8FD9_u7BC7_u4E1C_u897F_u7684_u6700_u4E3B_u8981_u7684_u76EE_u7684_u662F_u8BD5_u4E00_u4E0Bmarkdown_u7684_u8BED_u6CD5_u548C_u4E03_u725B_u56FE_u5E93_uFF0C_u8BD5_u8BD5_u52A0_u97F3_u4E50_u52A0_u56FE_u7247_u52A0_u8D85_u94FE_u63A5_u4EC0_u4E48_u7684_u3002_u53D1_u73B0markdown_u771F_u7684_u8D85_u597D_u7528_u5462_u3002_u3002"><a href="#u597D_u4E86_uFF0C_u5176_u5B9E_u6211_u5199_u8FD9_u7BC7_u4E1C_u897F_u7684_u6700_u4E3B_u8981_u7684_u76EE_u7684_u662F_u8BD5_u4E00_u4E0Bmarkdown_u7684_u8BED_u6CD5_u548C_u4E03_u725B_u56FE_u5E93_uFF0C_u8BD5_u8BD5_u52A0_u97F3_u4E50_u52A0_u56FE_u7247_u52A0_u8D85_u94FE_u63A5_u4EC0_u4E48_u7684_u3002_u53D1_u73B0markdown_u771F_u7684_u8D85_u597D_u7528_u5462_u3002_u3002" class="headerlink" title="好了，其实我写这篇东西的最主要的目的是试一下markdown的语法和七牛图库，试试加音乐加图片加超链接什么的。发现markdown真的超好用呢。。"></a>好了，其实我写这篇东西的最主要的目的是试一下markdown的语法和七牛图库，试试加音乐加图片加超链接什么的。发现markdown真的超好用呢。。</h4><p>最后，如果有非肇庆的小伙伴看到这篇奇怪的东西并且看到最后，就再给你们介绍一下仙女湖这个好地方啦~</p>
+<p>仙女湖，嗯真的有仙女~~~的塑像。 =。=<br><img src="http://www.zqxh.gov.cn/images/dmtk/tpk/xnh/2012/6/19/17AC6A77A55D4D07B8AF41F5EB44CC24.jpg" alt=""></p>
+<p>这是仙女湖最著名的奇观【卧佛含丹】</p>
+<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://www.yfsheying.com/UploadPhotos/2012-9-28/20120928204451892.jpg" alt=""></h2><p>终。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<embed src="http://www.xiami.com/widget/39546525_1769139996/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+
+<p>早有耳闻熙尔叔叔看鸟的种种，一直好奇这其中乐趣何在，趁熙尔叔叔留在肇庆时，抓住机会跟着他去了一趟仙女湖上了一次<strong>看鸟入门课</strong>，确实很有趣呢。<br>]]>
+    
+    </summary>
+    
+      <category term="生活" scheme="http://miniminyi.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="看鸟" scheme="http://miniminyi.com/tags/%E7%9C%8B%E9%B8%9F/"/>
+    
+      <category term="blog" scheme="http://miniminyi.com/categories/blog/"/>
+    
+  </entry>
+  
+</feed>
